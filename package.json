@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "pnpm": "^9.1.1",
     "vitepress": "^1.1.4"
   }
 }
