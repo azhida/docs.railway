@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Railway 中文手册",
   description: "Railway 中文手册",
+  base: '/docs.railway',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
