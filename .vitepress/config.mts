@@ -114,6 +114,14 @@ export default defineConfig({
           { text: 'config-as-code', link: '/config-as-code'},
         ]
       },
+      {
+        text: 'Reference',
+        base: '/reference',
+        collapsed: false,
+        items: [
+          {text: 'pricing', link: '/pricing'},
+        ]
+      }
     ],
     
     socialLinks: [
